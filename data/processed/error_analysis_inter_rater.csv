@@ -1,0 +1,51 @@
+text,processed_text,true_label,predicted_label,Rater1_Category,Rater2_Category
+birit birit tunggang langgang lintang pukang dengar suara azan iblis nanti loh alaih,birit birit tunggang langgang lintang pukang dengar suara azan iblis nanti loh alaih,Normal,Abusive,contextual,contextual
+bawa google tai del,bawa google tai del,Abusive,Hate Speech,oov,code-switching
+bajar babi ngepet malam pakai lilin hemat listrik,bajar babi ngepet malam pakai lilin hemat listrik,Normal,Abusive,contextual,contextual
+suka suka gue tulis halu kayak gila kayak sarap kayak sedeng kayak delusi kayak gue anak rupiah malu malu citra idol,suka suka gue tulis halu kayak gila kayak sarap kayak sedeng kayak delusi kayak gue anak rupiah malu malu citra idol,Abusive,Hate Speech,code-switching,sarcasm
+kere miskin hak tanah belaga sombong bedebah,kere miskin hak tanah belaga sombong bedebah,Hate Speech,Normal,oov,oov
+palestina antek asing,palestina antek asing,Hate Speech,Normal,contextual,contextual
+yen kerja ning slawi perek hotel grand dian toko material kue gone nyong digawe tembok wkwk,yen kerja ning slawi perek hotel grand dian toko material kue gone nyong digawe tembok wkwk,Normal,Abusive,code-switching,contextual
+pribadi kagum artikel beliau tolong copet baik rumah hancur puting beliung tpa media tau jabat menteri,pribadi kagum artikel beliau tolong copet baik rumah hancur puting beliung tpa media tau jabat menteri,Normal,Hate Speech,contextual,sarcasm
+kecoa cuma mlongo nya suka got tai kecoa senang makan tai septi tank,kecoa cuma mlongo nya suka got tai kecoa senang makan tai septi tank,Abusive,Hate Speech,oov,oov
+online pajak income persh online nya income nya iklan iur premium produk lost tax banding usaha mal serap ten kerja online serap pelihara wi,online pajak income persh online nya income nya iklan iur premium produk lost tax banding usaha mal serap ten kerja online serap pelihara wi,Hate Speech,Normal,code-switching,code-switching
+hamdalah selesai fitur keparat,hamdalah selesai fitur keparat,Abusive,Hate Speech,contextual,sarcasm
+asing asing antek partai komunis indonesia yahudi kapitalis rangkap komunis,asing asing antek partai komunis indonesia yahudi kapitalis rangkap komunis,Normal,Hate Speech,oov,oov
+iya gue pikir super giant keluar pas avenger kuat banget game marvel future fight super giant culun habis banding black order,iya gue pikir super giant keluar pas avenger kuat banget game marvel future fight super giant culun habis banding black order,Normal,Abusive,code-switching,code-switching
+umat islam bodoh pakai fiksi alas salman rusdhi the satanic verse asal bodoh fiksi imajiner angan tuju bela nara,umat islam bodoh pakai fiksi alas salman rusdhi the satanic verse asal bodoh fiksi imajiner angan tuju bela nara,Normal,Hate Speech,code-switching,code-switching
+rezim weeaboo persekusi bong bong,rezim weeaboo persekusi bong bong,Normal,Hate Speech,oov,oov
+founder kata crush berengsek,founder kata crush berengsek,Hate Speech,Abusive,code-switching,code-switching
+suka kalimat ustaz halus menghujam sanubari,suka kalimat ustaz halus menghujam sanubari,Hate Speech,Normal,contextual,contextual
+wujud insyaallah do rakyat negeri diijabah allah subhanahu wa taala usaha ikhlas indonesia,wujud insyaallah do rakyat negeri diijabah allah subhanahu wa taala usaha ikhlas indonesia,Normal,Hate Speech,contextual,contextual
+front bela islam nyata darul islam nyata isis propaganda politik,front bela islam nyata darul islam nyata isis propaganda politik,Normal,Hate Speech,code-switching,code-switching
+rezim upaya cuci otak generasi lupa sejarah akan bapak hebat mi sama tuhan rezim kacang lupa kulit puja asing anjing komunis,rezim upaya cuci otak generasi lupa sejarah akan bapak hebat mi sama tuhan rezim kacang lupa kulit puja asing anjing komunis,Normal,Hate Speech,sarcasm,sarcasm
+hore cowok ganteng azar,hore cowok ganteng azar,Abusive,Normal,sarcasm,sarcasm
+sok banget jijik tar save sebentar,sok banget jijik tar save sebentar,Abusive,Hate Speech,contextual,contextual
+banyak minum kencing onta,banyak minum kencing onta,Hate Speech,Abusive,contextual,contextual
+efek tuan guru bajang kayak teman bicara dadak kayak cebong,efek tuan guru bajang kayak teman bicara dadak kayak cebong,Hate Speech,Normal,oov,code-switching
+menteri capai target ganti presiden tepat janji lengser,menteri capai target ganti presiden tepat janji lengser,Hate Speech,Normal,contextual,code-switching
+tuju dukung anti rejim sebut laku,tuju dukung anti rejim sebut laku,Hate Speech,Normal,contextual,contextual
+gue bilang sombong gue gue sombong kayak ejek sombong kayak setan,gue bilang sombong gue gue sombong kayak ejek sombong kayak setan,Abusive,Hate Speech,code-switching,code-switching
+jalan provides technology solutions ayah pamer ayo ayo pamer ayah pamer buddha buddha hati hmmm ayah cocok kesana muka chinesenya,jalan provides technology solutions ayah pamer ayo ayo pamer ayah pamer buddha buddha hati hmmm ayah cocok kesana muka chinesenya,Normal,Hate Speech,contextual,contextual
+senang hati cewek lepas mbak angkut mbak gang bang perkosa kunyuk selesai mbak mobil marah pergi bilang perkosa,senang hati cewek lepas mbak angkut mbak gang bang perkosa kunyuk selesai mbak mobil marah pergi bilang perkosa,Hate Speech,Normal,oov,oov
+anak culun beda tipis,anak culun beda tipis,Normal,Hate Speech,code-switching,code-switching
+mesti proyek asing nasionalis pancasilais pilih asing antek asing,mesti proyek asing nasionalis pancasilais pilih asing antek asing,Hate Speech,Normal,contextual,contextual
+tangkap bunuh bajing harap tegak hukum,tangkap bunuh bajing harap tegak hukum,Abusive,Hate Speech,contextual,contextual
+bacot banget kunyuk bikin sayang,bacot banget kunyuk bikin sayang,Hate Speech,Abusive,oov,oov
+harap rezim mustahil pesan bahan citra pilih presiden ganti presiden,harap rezim mustahil pesan bahan citra pilih presiden ganti presiden,Normal,Hate Speech,contextual,contextual
+bangga orang islam to times,bangga orang islam to times,Normal,Hate Speech,code-switching,code-switching
+mantap bravo pasang ideal cocok tumbang kaum antek cina,mantap bravo pasang ideal cocok tumbang kaum antek cina,Hate Speech,Normal,sarcasm,sarcasm
+baju muslim tulis,baju muslim tulis,Hate Speech,Normal,contextual,contextual
+kabar bos bos partai dukung menteri perempuan komunis makan,kabar bos bos partai dukung menteri perempuan komunis makan,Normal,Hate Speech,oov,sarcasm
+bangsat salah gila,bangsat salah gila,Abusive,Hate Speech,contextual,contextual
+ejek bacot ngentot nikah ajak ngewe,ejek bacot ngentot nikah ajak ngewe,Hate Speech,Abusive,code-switching,code-switching
+udeeeh biasa tidur mobile data amp wifi off all apps removed malam kacrut laugh out loud wine tunggu plus,udeeeh biasa tidur mobile data amp wifi off all apps removed malam kacrut laugh out loud wine tunggu plus,Abusive,Hate Speech,code-switching,code-switching
+poros bentuk pilih presiden mekanisme majelis musyawarat rakyat pilih presiden rakyat poros tiga,poros bentuk pilih presiden mekanisme majelis musyawarat rakyat pilih presiden rakyat poros tiga,Normal,Hate Speech,code-switching,code-switching
+najis kirim pesan tidak jelas direct message gue balas bodoh gue doa pentas menang,najis kirim pesan tidak jelas direct message gue balas bodoh gue doa pentas menang,Hate Speech,Abusive,code-switching,code-switching
+asa kemarin pakai axis aman rumah minggu kacrut kali jaring,asa kemarin pakai axis aman rumah minggu kacrut kali jaring,Hate Speech,Normal,oov,oov
+depan setan dungu burittt,depan setan dungu burittt,Hate Speech,Abusive,oov,oov
+sis request kat nak bodoh je last birthday natang sis happy buka tengok iphone alaaaa sis maksud iphone my salah je pergi tukar minat apple iphone eeyewwww,sis request kat nak bodoh je last birthday natang sis happy buka tengok iphone alaaaa sis maksud iphone my salah je pergi tukar minat apple iphone eeyewwww,Normal,Abusive,code-switching,code-switching
+rezim rezim komunis tanda tanda nya arah kesana,rezim rezim komunis tanda tanda nya arah kesana,Hate Speech,Normal,code-switching,code-switching
+as kendali anak choir kelas ke sekolah bawa pulpen dongok suka bantu orang kelas,as kendali anak choir kelas ke sekolah bawa pulpen dongok suka bantu orang kelas,Abusive,Normal,code-switching,code-switching
+kivlan rekan jerit jerit komunis hidup,kivlan rekan jerit jerit komunis hidup,Hate Speech,Normal,code-switching,code-switching
+dibully warga asing non pasuruan saudara kocu,dibully warga asing non pasuruan saudara kocu,Hate Speech,Normal,contextual,contextual

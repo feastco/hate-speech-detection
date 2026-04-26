@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Node / JS (Frontend)
+node_modules/
+dist/
+build/
+.npm/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Project Specific
+temp/
+
+# CATATAN: 
+# Jika folder data/ dan models/ memiliki ukuran file yang sangat besar (>100MB per file),
+# pertimbangkan untuk menghapus tanda pagar (#) di bawah ini agar tidak ikut terupload,
+# atau gunakan Git LFS (Large File Storage).
+# data/
+models/
+pdf/
+pipeline/
+image/

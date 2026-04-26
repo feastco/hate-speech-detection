@@ -1,0 +1,23 @@
+# Backend & API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Machine Learning & Data Processing
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+joblib
+
+# Natural Language Processing (NLP)
+nltk
+Sastrawi
+
+# Deep Learning & Transformers (IndoBERT)
+torch
+transformers
+datasets
+
+# Testing (Opsional)
+pytest

@@ -1,0 +1,4 @@
+Pasangan,b,c,chi2,p-value,Signifikan
+SVM vs MNB,220,346,27.606,0.0,True
+SVM vs CNB,164,259,20.8889,5e-06,True
+CNB vs MNB,122,153,3.2727,0.07044,False

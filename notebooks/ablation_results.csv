@@ -1,0 +1,19 @@
+Config,Model,Accuracy (%),N_samples,N_features
+Full (6 step),MNB,78.67,12024,4076
+Full (6 step),CNB,76.51,12024,4076
+Full (6 step),SVM,77.55,12024,4076
+No Stemming (5 step),MNB,78.5,12024,5281
+No Stemming (5 step),CNB,76.51,12024,5281
+No Stemming (5 step),SVM,78.5,12024,5281
+No Stopword (5 step),MNB,78.6,12780,4231
+No Stopword (5 step),CNB,79.19,12780,4231
+No Stopword (5 step),SVM,80.91,12780,4231
+No Slang Norm (5 step),MNB,79.07,12420,4954
+No Slang Norm (5 step),CNB,79.19,12420,4954
+No Slang Norm (5 step),SVM,80.43,12420,4954
+Clean+Tokenize (3 step),MNB,79.11,12780,6410
+Clean+Tokenize (3 step),CNB,79.34,12780,6410
+Clean+Tokenize (3 step),SVM,80.79,12780,6410
+Lower+Tokenize (2 step),MNB,78.21,13098,6744
+Lower+Tokenize (2 step),CNB,77.86,13098,6744
+Lower+Tokenize (2 step),SVM,81.6,13098,6744
