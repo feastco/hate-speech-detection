@@ -34,9 +34,7 @@ Semuanya dibalut dalam antarmuka web yang modern, interaktif, dan *blazing-fast*
  ┣ 📂 backend/       👉 Source code FastAPI (API & Inference Logic)
  ┣ 📂 frontend/      👉 Source code Vue.js 3 & Tailwind CSS (Antarmuka Web)
  ┣ 📂 data/          👉 Dataset mentah & hasil pemrosesan
- ┣ 📂 notebooks/     👉 Jupyter Notebooks untuk riset, EDA, dan pelatihan model
- ┣ 📂 pipeline/      👉 Skrip evaluasi metodologi & validasi data
- ┣ 📂 pdf/           👉 Laporan, draft paper, dan dokumen pendukung
+ ┣ 📂 notebooks/     👉 Notebooks untuk riset, EDA, dan pelatihan model
  ┗ 📂 models/        👉 [TIDAK DISERTAKAN DI GITHUB] Tempat Anda meletakkan file model .pkl
 ```
 
