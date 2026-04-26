@@ -114,6 +114,14 @@ Buka **tab terminal baru** (dan pastikan terminal backend di atas tetap dibiarka
 
 ---
 
+## 📚 Sitasi Dataset
+Dataset utama yang digunakan untuk melatih model dalam repositori ini adalah *dataset* publik. Kami memberikan atribusi penuh dan ucapan terima kasih kepada **Muhammad Okky Ibrohim** beserta rekan peneliti atas penyediaan dataset *Indonesian Hate Speech and Abusive Language*.
+
+Jika Anda memanfaatkan sistem ini beserta datanya untuk keperluan riset atau publikasi akademis, mohon untuk merujuk dan memberikan sitasi ke *repository* asli mereka di GitHub:
+- 🔗 **Sumber Dataset:** [okkyibrohim / id-multi-label-hate-speech-and-abusive-language-detection](https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection)
+
+---
+
 ## 🤝 Kontribusi
 Punya ide keren untuk mengembangkan akurasi model? Atau ingin mempercantik UI lebih jauh? *Pull requests are highly appreciated!*
 Untuk perubahan besar, silakan buat *Issue* terlebih dahulu agar bisa didiskusikan bersama.
