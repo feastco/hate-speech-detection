@@ -39,14 +39,23 @@ Sistem cerdas berbasis Machine Learning dan Natural Language Processing (NLP) un
    pip install -r requirements.txt 
    # Atau install manual dependensi seperti fastapi, uvicorn, scikit-learn, transformers, dll.
    ```
-4. Jalankan server FastAPI:
+
+### 2. Persiapan Model (Penting!)
+⚠️ **Catatan:** Direktori `models/` beserta file model di dalamnya (seperti `.pkl` atau model IndoBERT) **tidak disertakan** di dalam repositori ini karena batasan ukuran file di GitHub.
+
+Sebelum menjalankan backend, Anda perlu menyiapkan modelnya dengan cara:
+1. Menjalankan *script* pelatihan (misalnya melalui file di dalam folder `notebooks/` atau `pipeline/`) untuk men-*generate* ulang model secara lokal.
+2. Memastikan model yang telah selesai dilatih disimpan ke dalam direktori `models/` yang ada di *root* proyek ini.
+
+### 3. Menjalankan Backend
+1. Setelah model tersedia, jalankan server FastAPI:
    ```bash
    cd backend
    uvicorn main:app --reload
    ```
    *Backend API biasanya akan berjalan di `http://localhost:8000`*
 
-### 2. Setup Frontend (Vue.js 3)
+### 4. Setup Frontend (Vue.js 3)
 1. Buka terminal baru dan arahkan ke folder `frontend`:
    ```bash
    cd frontend
