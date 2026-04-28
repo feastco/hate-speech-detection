@@ -187,11 +187,11 @@ print(f"  Tersimpan: {p3}")
 # ============================================================================
 print("[4/4] Generate IndoBERT vs Baseline bar chart (angka SVM diperbarui)...")
 
-categories = ['MNB\n(TF-IDF)', 'CNB\n(TF-IDF)', 'SVM Dioptimasi\n(TF-IDF)', 'IndoBERT\n(Ep3)']
-accs  = [75.22, 73.22, acc_svm*100, 78.32]
-f1s   = [72.21, 70.27, f1_svm*100, 74.59]
-colors_acc = ['#2ecc71', '#3498db', '#e67e22', '#9b59b6']
-colors_f1  = ['#a8e6cf', '#aed6f1', '#fad7a0', '#d7bde2']
+categories = ['MNB\n(TF-IDF)', 'CNB\n(TF-IDF)', 'SVM Dioptimasi\n(TF-IDF)', 'IndoBERT\n(Ep3)', 'IndoBERT\n(Split Identik)']
+accs  = [75.22, 73.22, acc_svm*100, 78.32, 68.69]
+f1s   = [72.21, 70.27, f1_svm*100, 74.59, 63.03]
+colors_acc = ['#2ecc71', '#3498db', '#e67e22', '#9b59b6', '#e74c3c']
+colors_f1  = ['#a8e6cf', '#aed6f1', '#fad7a0', '#d7bde2', '#f5b7b1']
 
 x = np.arange(len(categories))
 width = 0.35
