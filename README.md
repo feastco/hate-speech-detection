@@ -27,6 +27,16 @@ Semuanya dibalut dalam antarmuka web yang modern, interaktif, dan *blazing-fast*
 
 ---
 
+## 🎯 Penanganan Bias: Lexicon Override (24 Kata Makian)
+
+Dataset ujaran kebencian bahasa Indonesia sering kali memiliki *bias*, di mana kata-kata makian murni kerap dilabeli sebagai *Hate Speech* (ujaran kebencian) oleh annotator, meskipun konteksnya hanyalah ekspresi kekesalan biasa yang seharusnya masuk ke kategori *Abusive* (kata kasar). 
+
+Untuk mengatasi hal tersebut dan meningkatkan akurasi spesifik kelas *Abusive*, kami menerapkan mekanisme **Coefficient Override (Intervensi Bobot Lexicon)** secara eksplisit ke dalam model SVM (diimplementasikan di `notebooks/fix_abusive_model.py`). Mekanisme ini memastikan **24 kata makian murni** berikut ini memiliki bobot prediksi yang sangat kuat ke arah label *Abusive*, sambil memberikan penalti bobot pada kelas *Hate Speech*:
+
+> `anjing, babi, monyet, bangsat, goblok, bego, tolol, idiot, kampret, keparat, jancuk, kontol, memek, lonte, anjir, asu, sial, sundal, bedebah, perek, pelacur, gila, sinting, bacot`
+
+---
+
 ## 🗂️ Struktur Direktori
 
 ```text
